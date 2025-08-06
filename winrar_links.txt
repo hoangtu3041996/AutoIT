@@ -1,2 +1,5 @@
-https://www.rarlab.com/rar/winrar-x64-713vn.exe
-https://www.rarlab.com/rar/winrar-x64-713.exe
+https://www.rarlab.com/rar/winrar-x64-713vn.exe  ; Tiếng Việt
+https://www.rarlab.com/rar/winrar-x64-713.exe    ; Tiếng Anh
+https://www.rarlab.com/rar/winrar-x64-713d.exe   ; Tiếng Đức
+https://www.rarlab.com/rar/winrar-x64-713kr.exe  ; Tiếng Hàn
+https://www.rarlab.com/rar/winrar-x64-713fr.exe  ; Tiếng Pháp
